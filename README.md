@@ -1,10 +1,10 @@
-## Hi there 👋 , I'm Yi Chien and welcome to my GitHub profile.
+## Hi there 👋 , I'm Yi Chien and welcome to my GitHub profile!
     
- 📈 Before switching to Data Science, I'm a proprietary trader who got a Bachelor's Degree in Economics and Finance
+ 📈 Before switching to Data Science, I was a proprietary trader who got a Bachelor's Degree in Economics and Finance
  
- 🎓 Currently pursuing Master's in Data Science and Business Analytics  
+ 🎓 Currently pursuing Master's in Data Science and Business Analytics from Asia Pacific University  
  
- 💡 Particularly interested in Predictive Analytics, Machine Learning and applying statistical models to solve real-world business problems 
+ 💡 Particularly interested in Predictive Analytics, Machine Learning and applying statistical models to solve real-world business problems
 
 <!--
 **yccho97/yccho97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
