@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm Yi Chienand welcome to my GitHub profile.
+### Hi there 👋 , I'm Yi Chien and welcome to my GitHub profile.
 ##### Before switching to Data Science, I'm a proprietary trader who got a Bachelor's Degree in Economics and Finance📈
 ##### Currently pursuing Master's in Data Science and Business Analytics 🎓 
 ##### Particularly interested in Predictive Analytics, Machine Learning and applying statistical models to solve real-world business problems 💡
