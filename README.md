@@ -1,5 +1,5 @@
-### Hi there 👋 
-#### I'm Yi Chien, a Master's student 👨‍🎓 in Data Science and Business Analytics.
+### Hi there 👋 , welcome to my GitHub profile.
+##### I'm Yi Chien, a Master's student in Data Science and Business Analytics 🎓
 
 <!--
 **yccho97/yccho97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
